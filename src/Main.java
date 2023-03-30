@@ -5,5 +5,11 @@ public class Main {
         solar.moon="2";
         solar.planets="2";
 
+        sun fero= new sun();
+        fero.color="red";
+        fero.temperature=1231;
+        fero.heat="26541544";
+
+
     }
 }
